@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hiroshi-CS
+- 👋 Hi, I’m @Nhân
 - 👀 I’m interested in Jia
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
