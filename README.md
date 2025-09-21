@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nhân
-- 👀 I’m interested in Jia
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
